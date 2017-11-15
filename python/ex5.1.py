@@ -1,6 +1,6 @@
 #Ex 5.1 A BIT MORE ON VARIABLES
 
-# Program asking a user for input and converting cm to inches and kg to punds
+# Program asking a user for input and converting cm to inches and kg to punds and other way around
 
 name = input("What is your name?\n")
 age = input("How old are You?\n")
