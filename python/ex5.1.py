@@ -1,4 +1,4 @@
-#Ex 5.1 A BIT MORE ON VARIABLES
+# Ex 5.1 A BIT MORE ON VARIABLES
 
 # Program asking a user for input and converting cm to inches and kg to punds and other way around
 

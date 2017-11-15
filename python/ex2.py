@@ -1,4 +1,4 @@
-# Ex2 Comments and pund character
+# Ex2 COMMENTS AND POUND CHARACTER
 
 # A comment, so you could read your program later
 # Anything after # is ignored by python

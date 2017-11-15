@@ -1,3 +1,5 @@
+# Ex6. STRINGS AND TEXT
+
 #  Aprogram showing different ways to use strings and text
 
 # using f-string and variables

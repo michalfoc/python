@@ -1,4 +1,4 @@
-# Ex1 A Good First program
+# Ex1 A GOOD FIRST PROGRAM
 
 #program printing strings
 
