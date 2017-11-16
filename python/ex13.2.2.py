@@ -3,6 +3,7 @@
 from sys import argv
 script, car_make, car_model = argv
 
+#note, that argument script DOES NOT HAVE TO be printed out or even used.
 print("Ordered car make is: ", car_make)
 print(f"Unfortunately, {car_model} is currently unavailable.")
 
