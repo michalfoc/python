@@ -1,17 +1,19 @@
 # 1. Study drill from Ex33
 
 
+# function building a list
 
-
-def buildlist(num):
+def build_list(num):
     num = int(num)
     i = 0
     numList = []
     while i < num:
-        numList.append(i)
-        i += 1
         print("i: ", i)
+        numList.append(i)
+        i += increment
         print("list: ", numList)
 
-answer = int(input(">"))
-buildlist(answer)
+list_range = int(input("Range of numbers to be inserted into a list:\n>"))
+increment = float(input("Increment of numbers in the list:\n>"))
+
+build_list(list_range)
